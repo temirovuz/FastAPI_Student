@@ -1,7 +1,8 @@
 # FastAPI Student project
 
 ---
-> Git clone project
+> Git clone project<br>
+
     git clone https://github.com/temirovuz/FastAPI_Student.git
 
 Create .env file 
