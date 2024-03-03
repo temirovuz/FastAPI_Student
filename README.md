@@ -13,6 +13,6 @@
 ##  Installing requirements.txt
         pip install -r requirements.txt
 
-Create .env file 
+## Create .env file 
 <br>
-env file in DATABASE_URL
+## env file in DATABASE_URL
