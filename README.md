@@ -14,4 +14,4 @@
         pip install -r requirements.txt
 
 ## Create .env file 
-## Env file in DATABASE_URL
+## Env file in DATABASE_URL :)
